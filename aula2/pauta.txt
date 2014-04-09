@@ -1,0 +1,16 @@
+﻿Aula 2
+ 0  - Revisão do exercicio da aula1
+ 1  - Instancias x Classes 
+ 2  - Construtores
+ 3  - Tipos primitivos x java.lang.*
+ 4  - Atribustos
+ 5  - Metodos (aprofundando um pouco)
+ 6  - Encapsulamento
+ 7  - Herança
+ 8  - Constantes x Variaveis
+ 9  - "Java Beans" 
+ 10  - Ola Continente! (Um exemplo prático usando Definição de classe, instancia, encapsulamento e o padão basico de beans)
+ 11  - Exercicio - Criar uma classe com um 'main' que instancie uma outra classe que defina um cliente, com dois atributos, nome e sexo, estes clientes devem ser inseridos em uma terceira instancia que defina uma loja.
+ Após isso escrever na saida a lista destes clientes por loja.
+ 11.1 - Exercício2 - Criar uma classe que define um Cliente Plus que herde a classe cliente e adicione os atributos tipoDeCliente e endereco. Após isso gerar duas instancias deste novo tipo de cliente na classe 'main' criada anteriormente.
+ 
